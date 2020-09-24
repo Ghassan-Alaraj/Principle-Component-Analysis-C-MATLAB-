@@ -1,11 +1,3 @@
-/*****************************************************************************************************
-
- This file is where you'll put the source information for the functions you write.  Make sure it's
- included in your project (shift-alt-A) and that the functions you add are declared in the header
- file, myEigenFunctions.h.  You can add any extra comments or checks that could be relevant to these
- functions as you need to.
-
-====================================================================================================*/
 
 #include <string>
 
