@@ -33,7 +33,7 @@ int main(void)
 
   double **cov  = CovarianceMatrix(spectra, N, M);
 
-  //Task Output eigenpair as two csv files
+  //Output eigenpair as two csv files
 
  //setup both vectors with zeros to avoid any unforseen issues later
   for(int i = 0;i <56;i++){
